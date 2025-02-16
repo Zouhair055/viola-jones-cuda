@@ -21,6 +21,10 @@ Avant d'exécuter le projet, installez les dépendances requises :
 cd projet
 pip install -r requirements.txt
 ```
+**Github repo**
+```bash
+https://github.com/Zouhair055/viola-jones-cuda
+```
 
 ### Commandes disponibles
 #### 1. Entraînement et test :
